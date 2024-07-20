@@ -1,7 +1,7 @@
 WEWE Brand
-🌟 Find our brand kit here: WEWE Brand Kit
+🌟 Find our brand kit, Socials and Ownershipshere: WEWE Brand Kit
 
-Socials and Ownerships
+
 Base (ERC-20)
 Owner: @JPthor
 Dexscreener
