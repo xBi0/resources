@@ -1,5 +1,5 @@
 WEWE Brand
-🌟 Find our brand kit, Socials and Ownershipshere: WEWE Brand Kit
+🌟 Find our brand kit, Socials and Ownerships here: WEWE Brand Kit
 
 
 Base (ERC-20)
